@@ -1,5 +1,2 @@
-Testando
-Uma
-Atualização
-do arquivo
-a
+Testando uma nova atualização
+Enviando a Funcionalidade X
